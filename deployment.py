@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
+import numpyp as np
 import torch
 import torch.nn.functional as F
 from sentence_transformers import SentenceTransformer
